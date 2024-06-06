@@ -1,9 +1,13 @@
 # Cadastro de clientes 🖊️
 
-Front-End project with ReactJS to create a simple UI about movies that you like.
+Projeto Front-End para cadastro de clientes
 
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
 
-* Tela da aplicação
+## Tela da aplicação
 
 ![Main](main-screen.png)
 
